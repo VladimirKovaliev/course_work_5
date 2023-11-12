@@ -52,8 +52,13 @@
 # Инструкция по работе:
 Добавить database.ini с содержимым:
 [postgresql]
+
 host=localhost
+
 user=postgres
+
 password='ваш пароль'
+
 port=5432
+
 Запустить основной код из main.py
