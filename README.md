@@ -51,6 +51,7 @@
 
 # Инструкция по работе:
 Добавить database.ini с содержимым:
+
 [postgresql]
 
 host=localhost
