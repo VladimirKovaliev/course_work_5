@@ -63,3 +63,7 @@ password='ваш пароль'
 port=5432
 
 Запустить основной код из main.py
+
+
+
+![Sans_battle_glowing_eye](https://github.com/VladimirKovaliev/course_work_5/assets/142924160/56bff236-74d8-4e58-9ab4-6bcb2526d226)
